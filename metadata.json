@@ -1,0 +1,8 @@
+{
+  "name": "酒店智能体服务效能分析报告",
+  "description": "一份关于酒店智能体核心价值、用户接受度及服务效能的穿透式洞察汇报网页。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

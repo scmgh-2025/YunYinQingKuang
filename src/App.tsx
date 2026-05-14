@@ -512,7 +512,7 @@ export default function App() {
               <ShieldCheck size={28} />
             </div>
             <div>
-              <h2 className="text-3xl font-extrabold text-slate-900 tracking-tight">四、穿透式洞察</h2>
+              <h2 className="text-3xl font-extrabold text-slate-900 tracking-tight">四、总结</h2>
               <p className="text-slate-500 font-medium">三大核心结论与本质认知</p>
             </div>
           </div>
@@ -534,7 +534,7 @@ export default function App() {
               </div>
               <h4 className="text-xl font-bold text-slate-900 mb-4 relative z-10">价值本质</h4>
               <p className="text-slate-600 leading-relaxed mb-6 flex-grow relative z-10">
-                智能体是酒店服务的<span className="text-brand-600 font-bold">效率放大器与体验提升器</span>，而非简单替代工具，能同时实现住客体验升级与酒店运营降本增效的双赢。
+                智能体是酒店服务的<span className="text-brand-600 font-bold">效率提升工具与体验提升工具</span>，而非简单替代工具，能同时实现住客体验升级与酒店运营降本增效的双赢。
               </p>
               <div className="pt-4 border-t border-slate-50 flex items-center justify-between text-xs font-bold text-slate-400 uppercase tracking-widest relative z-10">
                 <span>Insight 01</span>
@@ -558,7 +558,7 @@ export default function App() {
               </div>
               <h4 className="text-xl font-bold mb-4 relative z-10">用户本质</h4>
               <p className="text-brand-100 leading-relaxed mb-6 flex-grow relative z-10">
-                住客对 “扫码 - 咨询 - 派单” 的自助服务模式接受度高，尤其在<span className="text-white font-bold underline decoration-brand-500 decoration-2">中端酒店与精品酒店</span>中，使用意愿更强。
+                住客对 “扫码 - 咨询 - 派单” 的自助服务模式有一定接受度，尤其在<span className="text-white font-bold underline decoration-brand-500 decoration-2">中端酒店与精品酒店</span>中，使用意愿更强。
               </p>
               <div className="pt-4 border-t border-white/10 flex items-center justify-between text-xs font-bold text-brand-400 uppercase tracking-widest relative z-10">
                 <span>Insight 02</span>
@@ -580,9 +580,9 @@ export default function App() {
               <div className="w-10 h-10 bg-amber-100 text-amber-600 rounded-lg flex items-center justify-center mb-6 relative z-10">
                 <ZapIcon size={24} />
               </div>
-              <h4 className="text-xl font-bold text-slate-900 mb-4 relative z-10">效能本质</h4>
+              <h4 className="text-xl font-bold text-slate-900 mb-4 relative z-10">使用率提升的本质</h4>
               <p className="text-slate-600 leading-relaxed mb-6 flex-grow relative z-10">
-                智能体效能的核心瓶颈<span className="text-amber-600 font-bold">不在产品本身</span>，而在线下服务协同能力，只要流程顺畅，智能体就能发挥最大价值。
+                智能体效能的核心瓶颈<span className="text-amber-600 font-bold">不在产品本身</span>，而在服务团队对酒店运营的用心程度上，智能体就能发挥最大价值。
               </p>
               <div className="pt-4 border-t border-slate-50 flex items-center justify-between text-xs font-bold text-slate-400 uppercase tracking-widest relative z-10">
                 <span>Insight 03</span>
